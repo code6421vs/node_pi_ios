@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/code6421/Documents/Projects/TestST/Build/Products/Debug-iphonesimulator/TestSTTests.xctest/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TestSTTests-Swift.h",
+          'external-contents': "/Users/code6421/Documents/Projects/TestST/Build/Products/Debug-iphonesimulator/TestSTTests.xctest/Headers/TestSTTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/code6421/Documents/Projects/TestST/Build/Products/Debug-iphonesimulator/TestSTTests.xctest/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/code6421/Documents/Projects/TestST/Build/Products/Debug-iphonesimulator/TestSTTests.xctest/Modules/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
